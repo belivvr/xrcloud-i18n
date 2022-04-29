@@ -3,6 +3,7 @@
   "login.google": "Log in with Google ID",
   "login.github": "Log in with GitHub ID",
   "logout": "Logout",
+  "error": "We apologize for the inconvenience in using the service.<br />The server connection and site usage are not smooth at the moment.<br />Please try again later.",
   "menu.my-app": "My Applications",
   "menu.my-profile": "My Profile",
   "menu.header.introduce": "Introduce",
