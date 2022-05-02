@@ -23,6 +23,7 @@
   "user.unregister.complete": "완료되었습니다. 이용해주셔서 감사합니다.",
   "user.app.empty": "등록된 앱이 없습니다.",
   "user.app.name": "앱 이름",
+  "user.app.trial-hubs": "허브 체험해보기",
   "user.app.resource-management": "리소스 관리",
   "user.app.scene-management": "공간 관리",
   "user.app.avatar-management": "아바타 관리",
