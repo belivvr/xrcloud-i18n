@@ -62,6 +62,7 @@
   "resources.link.app.new": "앱 등록하러 가기",
   "resources.link.space.add": "공간 추가하러가기",
   "resources.link.avatar.add": "아바타 추가하러가기",
+  "docs.link.home": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko",
   "docs.link.scenes-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/scenes",
   "docs.link.hubs-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/hubs",
   "docs.link.avatars-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/avatars"
