@@ -50,10 +50,13 @@
   "user.subscription.beta-caution.concurrent-connection": "동시 접속자 수 제한: 8",
   "cancel": "취소",
   "add": "추가",
-  "space.add": "공간 추가",
-  "space.added": "공간이 등록되었습니다.",
-  "space.choose-app": "공간을 등록할 앱을 선택하세요.",
-  "avatar.add": "아바타 추가",
-  "avatar.added": "아바타가 등록되었습니다.",
-  "avatar.choose-app": "아바타를 등록할 앱을 선택하세요."
+  "resource.space.add": "공간 추가",
+  "resource.space.added": "공간이 등록되었습니다.",
+  "resource.space.choose-app": "공간을 등록할 앱을 선택하세요.",
+  "resource.avatar.add": "아바타 추가",
+  "resource.avatar.added": "아바타가 등록되었습니다.",
+  "resource.avatar.choose-app": "아바타를 등록할 앱을 선택하세요.",
+  "resource.link.app.new": "앱 등록하러 가기",
+  "resource.link.space.add": "공간 추가하러가기",
+  "resource.link.avatar.add": "아바타 추가하러가기"
 }
