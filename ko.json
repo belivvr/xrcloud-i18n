@@ -64,6 +64,5 @@
   "resources.link.avatar.add": "아바타 추가하러가기",
   "docs.link.scenes-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/scenes",
   "docs.link.hubs-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/hubs",
-  "docs.link.avatars-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/avatars",
-
+  "docs.link.avatars-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/avatars"
 }
