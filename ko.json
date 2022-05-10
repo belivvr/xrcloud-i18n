@@ -67,8 +67,8 @@
   "link-to.hubs-api": "Hubs API 바로가기",
   "link-to.avatars-api": "Avatars API 바로가기",
   "link-to.sample": "Sample Page 바로가기",
-  "docs.link.home": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko",
-  "docs.link.scenes-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/scenes",
-  "docs.link.hubs-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/hubs",
-  "docs.link.avatars-api": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko/docs/api/avatars"
+  "docs.link.home": "/docs/xrcloud/ko/index.html",
+  "docs.link.scenes-api": "/docs/xrcloud/ko/docs/api/scenes/index.html",
+  "docs.link.hubs-api": "/docs/xrcloud/ko/docs/api/hubs/index.html",
+  "docs.link.avatars-api": "/docs/xrcloud/ko/docs/api/avatars/index.html"
 }
