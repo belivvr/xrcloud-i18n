@@ -8,7 +8,7 @@
   "menu.my-app": "내 앱",
   "menu.my-profile": "내 프로필",
   "menu.header.introduce": "소개",
-  "menu.header.introduce-link": "https://belivvr.github.io/xrcloud-3rd-app-user-api-doc/ko",
+  "menu.header.introduce-link": "/docs/xrcloud/ko/index.html",
   "menu.header.term": "약관",
   "menu.header.metaverse": "메타버스",
   "menu.header.spaces": "공간",
